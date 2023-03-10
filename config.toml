@@ -9,7 +9,7 @@ build-mindetach-module = true
 
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
-rv-brand = "YouTube"
+rv-brand = "extended"
 
 [YouTube]
 enabled = true
