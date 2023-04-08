@@ -1,21 +1,18 @@
 CLI: revanced-cli-2.21.0-all.jar  
-Integrations: revanced-integrations-0.101.18.apk  
-Patches: revanced-patches-2.168.18.jar  
+Integrations: revanced-integrations-0.101.24.apk  
+Patches: revanced-patches-2.168.24.jar  
 
 YouTube
 ==
-- add `Hide official header` settings https://github.com/inotia00/ReVanced_Extended/issues/445
-- fix: history menu in library sometimes disappears in tablet layout
-- fix: `Hide channel avatar section` setting is not disabled in tablet layout
-- refactor(settings): replaced `adremover` label to `hide` in layout setting
+- fix(return-youtube-dislike): dislikes count changed if switching from video to shorts https://github.com/inotia00/ReVanced_Extended/issues/673
+- refactor: improve weak fingerprints
 - crowdin translation update
-`Arabic`, `Bulgarian`, `French`, `German`, `Italian`, `Japanese`, `Korean`, `Russian`, `Spanish`, `Ukrainian`, `Vietnamese`
+`Arabic`, `Bengali`, `Chinese Simplified`, `Chinese Traditional`, `French`, `Greek`, `Hungarian`, `Indonesian`, `Italian`, `Japanese`, `Korean`, `Polish`, `Russian`, `Turkish`, `Vietnamese`
 
 
-YouTube Music
+ETC
 ==
-- add `enable-compact-dialog` patch
-- add `hide-new-playlist` patch https://github.com/inotia00/ReVanced_Extended/issues/185
+- add support YouTube v18.13.38
 
 
 ※ Compatible ReVanced Manager: v0.0.57
@@ -26,13 +23,12 @@ YouTube Music
 - [Other Countries](https://crowdin.com/project/revancedextended)
   
 **App Versions:**  
-YouTube: 18.12.35  
 Music (arm64-v8a): 5.51.50  
 Music (arm-v7a): 5.51.50  
 Twitter: 9.83.0-release.0  
 Reddit: 2023.13.0  
 Twitch: 14.9.5  
-TikTok: 29.0.1  
+TikTok: 29.0.3  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
