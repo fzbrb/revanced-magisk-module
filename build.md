@@ -29,12 +29,9 @@ ETC
 - [Other Countries](https://crowdin.com/project/revancedextended)
   
 **App Versions:**  
+YouTube: 18.14.40  
 Music (arm64-v8a): 5.52.51  
 Music (arm-v7a): 5.52.51  
-Twitter: 9.84.0-release.0  
-Reddit: 2023.14.1  
-Twitch: 14.9.5  
-TikTok: 29.0.3  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
